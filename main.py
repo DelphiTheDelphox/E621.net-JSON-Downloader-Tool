@@ -25,9 +25,9 @@ try:
 except TypeError:
     print("Error files in incorrect format. \nFiles in directory must be in <ID Number>.<File Extension> ex. 560858.jpg \n If you're using this program you probably have images in this format anyway. Double check if the directory is correct.")
 
-useragent = "delphithedelphox"
-login = "delphithedelphox"
-api_key = "xxLysKC8fs5UYEnwi4BXrcYc"
+useragent = ""
+login = ""
+api_key = ""
 
 
 
